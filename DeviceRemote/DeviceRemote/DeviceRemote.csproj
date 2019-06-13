@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Buttplug.Client" Version="0.2.0.597-master" />
-    <PackageReference Include="Xamarin.Forms" Version="2.5.0.122203" />
+    <PackageReference Include="Xamarin.Forms" Version="4.0.0.497661" />
   </ItemGroup>
 
   <ItemGroup>
